@@ -22,7 +22,7 @@ conky -c $HOME/.config/bspwm/system-overview &
 $HOME/.config/dunst/dunst_with_pywal.sh &
 run sxhkd -c ~/.config/bspwm/sxhkd/sxhkdrc &
 #run plank &
-run glava &
+#run glava &
 run picom &
 run nm-applet &
 run pamac-tray &
