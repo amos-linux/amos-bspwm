@@ -10,9 +10,9 @@
 super + F1
 	firefox
 
-# Atom
+# sublime-text
 super + F2
-	atom
+	subl
 
 #Inkscape
 super + F3
