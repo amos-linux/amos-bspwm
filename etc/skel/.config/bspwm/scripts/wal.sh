@@ -8,6 +8,7 @@ else
   # Set background
   if [ -x "$(command -v feh)" ]; then
     feh --randomize --bg-fill /usr/share/amos/wallpapers/*
+    /wallpapers/*
       ####feh --randomize --bg-fill /usr/share/backgrounds/*
   fi
 fi
